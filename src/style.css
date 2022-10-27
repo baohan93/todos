@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Monsterrat&display=swap');
+body{
+    background: linear-gradient(to bottom, #b3c0da, #a750ee);
+    height: 200vh;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+*{
+    margin: 0px; padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.main{
+    background-color: rgb(255, 254, 254);
+    height: auto;
+    width: 650px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top:50%;
+}
+.left{
+    background-color: rgba(179, 102, 212, 0.788);
+    width: 200px;
+    height: 100%;
+    float: left;
+}
+.right{
+    width: 450px;
+    float: left;
+}
+.profile-img{
+    margin-bottom: 25px;
+    align-items: center;
+    height: 180px;
+    width: 180px;
+    background-color:mediumpurple;
+    border-radius: 70%;
+    /* margin-bottom: 8px; */
+    margin-left: 70px;
+    border: 10px soild mediumpurple;
+    box-shadow: 5px 6px 8px 5px rgba(199, 124, 231, 0.788);
+}
+.profile-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.box-1{
+    position: relative;
+}
+.heading{
+    background-color: rgb(156, 16, 156);
+    color: azure;
+    padding: 10px;
+    text-align: left;
+    padding-left: 40px;
+    margin-right: -5px;
+}
+ /* .heading::after{
+    content: '';
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    background-color: rgb(156, 16, 156);
+    left: 191px;
+    top:26px;
+    transform: rotate(56deg);
+    z-index: -10;
+}  */
+.p1{
+    padding: 9px 10px;
+    font-size: 11px;
+}
+.icons1{
+    font-size: 16px!important ;
+    padding-right: 10!important;
+    vertical-align: sub;
+}
+.skill-container{
+    width: 90%;
+    background-color: #d48ebf;
+    margin: 0 10px;
+}
+.skill{
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color:white;
+}
+.html{
+    width: 70%;;
+    background-color: white;
+}
+.C{
+    width: 87%;;
+    background-color: white;
+}
+.Python{
+    width: 51%;
+    background-color: white;
+}
+.Java{
+    width: 30%;;
+    background-color: white;
+}
+.Java{
+    width: 30%;;
+    background-color: white;
+}
+.Java{
+    width: 30%;;
+    background-color: white;
+}
+.fa{
+    padding: 18px 12px;
+}
+.name-div{
+    padding: 86px 0px 40px 55px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.name-div h1{
+   margin-bottom: 10px;
+}
+.box-2{
+    padding: 0px 30px;
+    margin-top:5px;
+}
+.p2{
+    font-size:15px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin: top;
+}
+h2{
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.icons3{
+    vertical-align: bottom;
+    font-size: 21px!important;
+    color: #0e060a;
+}
+.p3{
+    font: size 1px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin: top;
+}
+.fab{
+    padding: 20px 14px;
+    color:black;
+}
